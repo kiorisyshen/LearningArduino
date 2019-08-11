@@ -1,5 +1,5 @@
 # LearningArduino
-The Board/Product this project used is [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3)
+This project uses [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3) board.
 
 # Index
 ## 01 Running LED
